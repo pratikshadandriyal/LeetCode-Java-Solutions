@@ -23,6 +23,7 @@ This repository is a resource for those looking to study Java-based solutions to
 # Clone the Repository:
 Copy code -
 git clone https://github.com/pratikshadandriyal/LeetCode-Java-Solutions.git
+
 cd LeetCode-Java-Solutions
 
 # Contribution Guidelines
@@ -49,7 +50,8 @@ I plan to continuously update this repository with new solutions as I solve more
 If you have any questions, suggestions, or just want to connect:
 
 Email: pratikshadandriyal@example.com
-LinkedIn: Pratiksha Dandriyal
-License
 
+LinkedIn: Pratiksha Dandriyal
+
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
