@@ -22,7 +22,7 @@ This repository is a resource for those looking to study Java-based solutions to
 
 # Clone the Repository:
 Copy code -
-git clone https://github.com/your-username/LeetCode-Java-Solutions.git
+git clone https://github.com/pratikshadandriyal/LeetCode-Java-Solutions.git
 cd LeetCode-Java-Solutions
 
 # Contribution Guidelines
