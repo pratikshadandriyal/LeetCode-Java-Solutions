@@ -1,7 +1,7 @@
 # LeetCode Java Solutions
 Welcome to my repository of Java solutions for various LeetCode problems. This collection represents my journey in improving problem-solving skills, understanding algorithms, and preparing for coding interviews.
 
-Overview
+# Overview
 Language: Java
 Platform: LeetCode
 Author: Pratiksha Dandriyal
